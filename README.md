@@ -1,7 +1,7 @@
 # Improving Document Binarization via Adversarial Noise-Texture Augmentation
 This repository contains the full source codes and instructions to use the codes on the datasets described in the paper. The paper re-visits the binarization problem by introducingan adversarial learning approach.
 
-![Alt text](figs/test.png)
+![Results](figs/test.png)
 
 In this paper, we propose
 a two-stage network that first learns to augment the document
@@ -10,7 +10,7 @@ purpose, we construct a Texture Augmentation Network that
 transfers the texture element of a degraded reference document
 image to a clean binary image. 
 
-
+![Achitecture](figs/archit.png)
 In this way, the network
 creates multiple versions of the same textual content
 with various noisy textures, enlarging the available document
