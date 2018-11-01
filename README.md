@@ -1,4 +1,4 @@
-# Improving Document Binarization via Adversarial Noise-Texture Augmentation
+# Improving Document Binarization via Adversarial Noise-Texture Augmentation [paper](https://arxiv.org/abs/1810.11120v1)
 This repository contains the full source codes and instructions to use the codes on the datasets described in the paper. The paper re-visits the binarization problem by introducingan adversarial learning approach.
 
 ![Results](figs/test.png)
@@ -37,6 +37,17 @@ testing, the remaining datasets are used as a training set.
 of size 256 X 256.
 - Download the VGG weights from [here](https://drive.google.com/open?id=1tRJ4rQP83PsSO1m037Fp3M9DCVp2WA5Z) and put it in the repository folder.
 - To train the model run the 'train.py' file
+
+## Citation
+If you find this code useful in your research, please consider citing:
+
+    @article{bhunia2018improving,
+      title={Improving Document Binarization via Adversarial Noise-Texture Augmentation},
+      author={Bhunia, Ankan Kumar and Bhunia, Ayan Kumar and Sain, Aneeshan and Roy, Partha Pratim},
+      journal={arXiv preprint arXiv:1810.11120},
+      year={2018}
+    }
+
 
 
 
