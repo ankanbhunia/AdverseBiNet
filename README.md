@@ -1,4 +1,4 @@
-# Improving Document Binarization via Adversarial Noise-Texture Augmentation [paper](https://arxiv.org/abs/1810.11120v1)
+# Improving Document Binarization via Adversarial Noise-Texture Augmentation [[paper](https://arxiv.org/abs/1810.11120v1)]
 This repository contains the full source codes and instructions to use the codes on the datasets described in the paper. The paper re-visits the binarization problem by introducingan adversarial learning approach.
 
 ![Results](figs/test.png)
