@@ -1,5 +1,5 @@
 # Improving Document Binarization via Adversarial Noise-Texture Augmentation [[paper](https://arxiv.org/abs/1810.11120v1)]
-![Status: **Accepted in ICIP2019**](http://placehold.it/15/FF0000/FFFF00.png&text=Accepted+in+ICIP2019) 
+![Status: **Accepted in ICIP2019**](https://placehold.it/150/ffffff/ff0000?text=hello) 
 This repository contains the full source codes and instructions to use the codes on the datasets described in the paper. The paper re-visits the binarization problem by introducingan adversarial learning approach.
 ### The most significant contribution of our framework is that it does not require any paired data unlike other Deep Learning-based methods [ronneberger et al., Vo et al.,Konwer et al.].Such a novel approach has never been implemented earlier thus making it the very first of its kind in Document Image Analysis community.
 ![Results](figs/test.png)
